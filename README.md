@@ -1,2 +1,2 @@
 # MvcMovie
-Projeto para estudo do ASP MVC
+Projeto para estudo CRUD ASP MVC
